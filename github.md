@@ -19,7 +19,4 @@
 <img src="https://github-images.s3.amazonaws.com/enterprise/2.14/assets/images/help/repository/create-repository-public-private.png" alt="public vs private"></p>
 </li>
 </ol>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
 
