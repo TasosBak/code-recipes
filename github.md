@@ -3,6 +3,7 @@
 
 ---
 
+<h4 id="disclaimer---this-file-is-a-copy-of-the--official-doc-by-github-with-some-changes-that-are-helpful-for-my-own-use.-please-refer-to-the-original-docs.">Disclaimer - This file is a copy of the  <a href="https://help.github.com/en/enterprise/2.14/user/articles/creating-a-new-repository">official doc by github</a> with some changes that are helpful for my own use. Please refer to the original docs.</h4>
 <h2 id="creating-a-new-repository">Creating a new repository</h2>
 <p>You can create a new repository on your personal account or any organization where you have sufficient permissions.</p>
 <ol>
