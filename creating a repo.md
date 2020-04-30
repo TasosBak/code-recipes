@@ -52,7 +52,4 @@ git remote add origin https://github.com/put-github-username-here/put-repository
 git push -u origin master
 </code></pre>
 <p>The project is now successfully uploaded.</p>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
 
