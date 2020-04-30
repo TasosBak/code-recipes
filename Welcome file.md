@@ -2,9 +2,11 @@
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
-# ### …or create a new repository on the command line
+# …or create a new repository on the command line
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+  
+
+    sdf
 
 ## Create files and folders
 
@@ -143,5 +145,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzYzOTEyNCwtMTk1NDQwNjg0MV19
+eyJoaXN0b3J5IjpbLTEzMjgwOTg4MTEsLTE5NTQ0MDY4NDFdfQ
+==
 -->
