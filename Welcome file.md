@@ -5,8 +5,12 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 # …or create a new repository on the command line
 
   
-
-    code goes here
+```
+git init
+git commit -m "first commit"
+git remote add origin git@github.com:TasosBak/to-del.git
+git push -u origin master
+```
     
     
 
@@ -147,6 +151,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg3NzYyNDcsLTE5NTQ0MDY4NDFdfQ
-==
+eyJoaXN0b3J5IjpbMzA0NTMxMTI5LC0yMDM4Nzc2MjQ3LC0xOT
+U0NDA2ODQxXX0=
 -->
